@@ -2,7 +2,7 @@
 
 This directory containt the answers to the project about the basic of Emacs
 
-0-opening > open a file
+0-opening > open a file \n
 1-saving > save a file
 2-cutting > cut a line
 3-paste > paste
